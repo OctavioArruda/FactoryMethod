@@ -1,0 +1,15 @@
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\bin\Debug\net6.0\FactoryMethodExample.Application.deps.json
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\bin\Debug\net6.0\FactoryMethodExample.Application.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\bin\Debug\net6.0\FactoryMethodExample.Application.pdb
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\bin\Debug\net6.0\FactoryMethodExample.Domain.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\bin\Debug\net6.0\FactoryMethodExample.Domain.pdb
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.csproj.AssemblyReference.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.AssemblyInfoInputs.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.AssemblyInfo.cs
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.csproj.CopyComplete
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\refint\FactoryMethodExample.Application.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\FactoryMethodExample.Application.pdb
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Application\obj\Debug\net6.0\ref\FactoryMethodExample.Application.dll

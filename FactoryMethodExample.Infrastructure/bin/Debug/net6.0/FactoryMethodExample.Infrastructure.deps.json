@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FactoryMethodExample.Infrastructure/1.0.0": {
+        "runtime": {
+          "FactoryMethodExample.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethodExample.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\bin\Debug\net6.0\FactoryMethodExample.Infrastructure.deps.json
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\bin\Debug\net6.0\FactoryMethodExample.Infrastructure.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\bin\Debug\net6.0\FactoryMethodExample.Infrastructure.pdb
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\refint\FactoryMethodExample.Infrastructure.dll
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\FactoryMethodExample.Infrastructure.pdb
+C:\Users\Octavio\RiderProjects\FactoryMethodExample\FactoryMethodExample.Infrastructure\obj\Debug\net6.0\ref\FactoryMethodExample.Infrastructure.dll
