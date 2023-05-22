@@ -1,0 +1,41 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# Build output
+/bin/
+/obj/
+
+# Packages
+/packages/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/NuGet.config
+**/*.lock.json
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Oo]ut/
+[Ll]og/
+
+# Others
+.idea/
+*.suo
+*.user
+*.bak
+*.cache
+*.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Environment
+.env
+.env.*
