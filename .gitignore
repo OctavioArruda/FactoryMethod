@@ -6,6 +6,10 @@
 /bin/
 /obj/
 
+# Ignore bin and obj folders
+**/bin/
+**/obj/
+
 # Packages
 /packages/
 
