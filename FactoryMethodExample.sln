@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Api", "FactoryMethodExample.Api\FactoryMethodExample.Api.csproj", "{1BC912F8-2D65-4630-ACB1-996F010E5FEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Api", "src\FactoryMethodExample.Api\FactoryMethodExample.Api.csproj", "{1BC912F8-2D65-4630-ACB1-996F010E5FEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Domain", "FactoryMethodExample.Domain\FactoryMethodExample.Domain.csproj", "{783098A2-5D92-4256-B571-78363365E1BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Domain", "src\FactoryMethodExample.Domain\FactoryMethodExample.Domain.csproj", "{783098A2-5D92-4256-B571-78363365E1BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Application", "FactoryMethodExample.Application\FactoryMethodExample.Application.csproj", "{208E1787-7C35-4EDC-9B87-543AB5081633}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Application", "src\FactoryMethodExample.Application\FactoryMethodExample.Application.csproj", "{208E1787-7C35-4EDC-9B87-543AB5081633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Infrastructure", "FactoryMethodExample.Infrastructure\FactoryMethodExample.Infrastructure.csproj", "{79589162-80C7-41C3-BC02-DF112E933266}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodExample.Infrastructure", "src\FactoryMethodExample.Infrastructure\FactoryMethodExample.Infrastructure.csproj", "{79589162-80C7-41C3-BC02-DF112E933266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
