@@ -4,6 +4,7 @@
 - Build and run the application using visual studio 2022 or visual studio code with the properly C# .NET tools and CLI
 - Build and run using DOCKER
     - `docker run -d -p 8080:80 factory-method-example`
+    - Swagger: `http://localhost:8080/swagger/index.html`
 
 ## How to create the docker image
 - `docker build -t factory-method-example .`
